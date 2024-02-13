@@ -1,3 +1,6 @@
 # Animation-With-HTML-And-CSS
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=F70606&width=435&lines=%F0%9F%91%8B3D Animation+With+HTML&CSS+;Samir+Talukder+Apurbo;%F0%9F%AB%B0%F0%9F%96%A4)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=3D+Animation+Make!; Welcome+to+cyber+SAMIR+World+!;Here+is+your+3D+Animation+With!;HTML+and+CSS+File+Okh!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+
+  
